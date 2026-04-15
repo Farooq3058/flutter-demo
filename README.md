@@ -1,3 +1,3 @@
 # flutter-demo
 My first ever git repository...
-Author: Muhammad Farooq
+Author: Muhammad Farooq (dev)
